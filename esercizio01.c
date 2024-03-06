@@ -2,6 +2,6 @@
 int main() 
 {
 int numero;
-numero=20;
-printf("%d",numero);
+numero=30;
+printf("%d\n",numero);
 }
